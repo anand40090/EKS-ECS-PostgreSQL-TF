@@ -2,8 +2,8 @@
 In this project EKS,PostgreSQL are created on AWS cloud using TF.
 
 ### Basic Concept completed on 20-07-2023
-1. Create EKS cluster using TF
-1. Create PostgreSQL using TF
+1. Create EKS cluster using TF, [refer](https://github.com/anand40090/EKS-PostgreSQL-TF/tree/master/EKS-TF)
+1. Create PostgreSQL using TF, 
 
 ### Advance Concept, as on 20-07-2023 status is work in progress 
 1. Create EKS Cluster using TF
