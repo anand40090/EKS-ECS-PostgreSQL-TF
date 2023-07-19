@@ -2,7 +2,7 @@
 In this project EKS,PostgreSQL are created on AWS cloud using TF.
 
 ### Prerequsites
-1. Basic understanding of terraform scripting and ho to configure and use terraform [Click to install & use terraform](https://phoenixnap.com/kb/how-to-install-terraform)
+1. Basic understanding of terraform scripting and how to configure and use terraform [Click to install & use terraform](https://phoenixnap.com/kb/how-to-install-terraform)
 2. Linx / Windows system with Git, terraform installed
 
 ### Basic Concept completed as on 20-07-2023
