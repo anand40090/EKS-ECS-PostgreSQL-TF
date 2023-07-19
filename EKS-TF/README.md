@@ -4,4 +4,4 @@
 3. 2-vpc.tf file containes configuration of VCP on AWS cloud.
 4. 3-eks-cluster.tf file containes seripting to creat EKS cluster on the AWS cloud.
 5. 4-eks-worker-nodes.tf containes sripting to create worker nodes on the EKS cluster.
-6. 5
+
